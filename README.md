@@ -114,16 +114,16 @@ pgsql
 Copy
 Edit
 src/
-├── components/
-│ ├── StudentForm.js
-│ ├── StudentTable.js
-│ ├── SearchControls.js
-│ └── TestRunner.js
-├── utils/
-│ └── searchUtils.js
-├── App.js
-├── index.js
-└── index.css
+components/
+ StudentForm.js
+ StudentTable.js
+ SearchControls.js
+ TestRunner.js
+ utils/
+ searchUtils.js
+ App.js
+ index.js
+ index.css
 How Fuzzy Search Works
 Accent-insensitive – “José” matches “jose”.
 
